@@ -1,0 +1,43 @@
+#Registerform{
+    width: 400px;
+    background: #619161;
+    padding: 50px;
+    color: black;
+    font-family: Calibri;
+    border-radius: 3px;
+}
+#Registerform h5{
+    margin: 0;
+    font-size: 22px;
+    margin-bottom: 20px;
+    font-weight: normal;
+}
+#txtbox{
+    background: #a39f9d;
+    border: 1px solid #1e1820;
+    font-size: 18px;
+    font-family: Calibri;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px;
+    border-radius: 4px;
+}
+#Registerform p{
+    float: left;
+    font-size: 18px;
+    margin: 1px 0 0;
+    color: white;   
+}
+#Registerform a{
+    font-size: 18px;
+    color: white;
+}
+#btn{
+    width: 100%;
+    margin: 16px 0px;
+    background: #bbb859;
+    border: 0;
+    color: #3b479f;
+    padding: 12px;
+    font-size: 16px;
+}
